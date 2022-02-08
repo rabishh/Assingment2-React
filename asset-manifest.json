@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assingment2-React/static/css/main.83ce7a66.css",
+    "main.js": "/Assingment2-React/static/js/main.f83138c8.js",
+    "static/js/787.e092aa9e.chunk.js": "/Assingment2-React/static/js/787.e092aa9e.chunk.js",
+    "index.html": "/Assingment2-React/index.html",
+    "main.83ce7a66.css.map": "/Assingment2-React/static/css/main.83ce7a66.css.map",
+    "main.f83138c8.js.map": "/Assingment2-React/static/js/main.f83138c8.js.map",
+    "787.e092aa9e.chunk.js.map": "/Assingment2-React/static/js/787.e092aa9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ce7a66.css",
+    "static/js/main.f83138c8.js"
+  ]
+}
